@@ -2,7 +2,7 @@
 
 A simple counter built with vanilla HTML, CSS, and JavaScript — no frameworks, just the basics done right. I built this while getting comfortable with DOM manipulation and event-driven UI updates.
 
-![preview](assets/preview.gif)
+![preview](assets/preview.PNG)
 
 Live demo: [https://countmonitor.netlify.app/]
 
