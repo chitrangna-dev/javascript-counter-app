@@ -10,7 +10,6 @@ Live demo: [https://countmonitor.netlify.app/]
 
 - Increment / decrement / reset counter
 - Responsive layout, works on mobile
-- Keyboard support (optional — remove if you didn't add this)
 - No dependencies, pure JS
 
 ## Tech Stack
@@ -39,12 +38,13 @@ Just open `index.html` in your browser — no build step needed.
 
 ## What I Learned
 
-This was a small project, but a few things stuck with me:
+While building this project, I practiced:
 
-- Using event delegation instead of attaching listeners to every button
-- Keeping the counter value in a single source of truth instead of reading it back from the DOM each time
-- Debouncing rapid clicks so the counter doesn't jump when a button is spammed
-- Writing CSS that scales down cleanly on smaller screens using `clamp()` and flexbox instead of fixed breakpoints
+- DOM manipulation using JavaScript
+- Handling button click events
+- Updating the UI dynamically
+- Working with variables and functions
+- Creating a responsive layout using CSS
 
 ## Possible Improvements
 
