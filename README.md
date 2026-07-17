@@ -1,10 +1,14 @@
 # Counter App
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 A simple counter built with vanilla HTML, CSS, and JavaScript — no frameworks, just the basics done right. I built this while getting comfortable with DOM manipulation and event-driven UI updates.
 
 ![preview](assets/preview.PNG)
 
-Live demo: [https://countmonitor.netlify.app/]
+**🌐 Live Demo:** [Counter App](https://countmonitor.netlify.app/)
 
 ## Features
 
@@ -34,7 +38,7 @@ git clone https://github.com/chitrangna-dev/Counter-App.git
 cd Counter-App
 ```
 
-Just open `index.html` in your browser — no build step needed.
+Open `index.html` in your preferred web browser.
 
 ## What I Learned
 
